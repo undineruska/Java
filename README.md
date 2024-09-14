@@ -1,1 +1,1 @@
-# Java
+Welcome to the Java Exercises and Homework repository! This repository contains a collection of Java programming exercises and homework assignments designed to help you practice and improve your Java programming skills.
